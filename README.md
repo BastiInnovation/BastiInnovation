@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BastiInnovation
-- 👀 I’m interested in C#, JS, Node.js, Cloud Development
+- 👀 I’m interested in C#, JS, TS, Node.js, Cloud Development
 - 🌱 I’m currently learning Cloud Development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
